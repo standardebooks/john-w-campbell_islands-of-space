@@ -42,7 +42,7 @@
         </meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/20988</dc:source>
-		<dc:source>https://babel.hathitrust.org/cgi/pt?id=uva.x000240885</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/102006381</dc:source>
 		<meta property="se:production-notes">There is a footnote in the prologue that refers to The Black Star, the prequel to Islands of Space. The Black Star is also on Gutenberg; if and when it's produced for Standard Ebooks, the footnote should be updated to refer it.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
