@@ -36,14 +36,14 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2009125313</meta>
 		<meta property="se:subject">Science Fiction</meta>
-        <dc:description id="description">Arcot, Wade, and Morey continue their fantastic adventures in the sequel to <i>The Black Star Passes</i>.</dc:description>
-        <meta id="long-description" property="se:long-description" refines="#description">
-            &lt;p&gt;Though better known as an editor, John Campbell also authored science fiction novels under both his own and pen names.&lt;i&gt;Islands of Space&lt;/i&gt.&lt;/p&gt; was the second in his "Arcot, Wade, and Morey" trilogy. Originally published in the spring 1931 edition of &lt;i&gt;Amazing Stories Quarterly&lt;/i&gt;, it was later published in book form in 1957.&lt;/p&gt;
+		<dc:description id="description">Arcot, Wade, and Morey continue their fantastic adventures in the sequel to <i>The Black Star Passes</i>.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">
+            &lt;p&gt;Though better known as an editor, John Campbell also authored science fiction novels under both his own and pen names.&lt;i&gt;Islands of Space&lt;/i&gt;.&lt;/p&gt; was the second in his “Arcot, Wade, and Morey” trilogy. Originally published in the spring 1931 edition of &lt;i&gt;Amazing Stories Quarterly&lt;/i&gt;, it was later published in book form in 1957.&lt;/p&gt;
         </meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/20988</dc:source>
 		<dc:source>https://babel.hathitrust.org/cgi/pt?id=uva.x000240885</dc:source>
-        <meta property="se:production-notes">There is a footnote in the prologue that refers to The Black Star, the prequel to Islands of Space. The Black Star is also on Gutenberg; if and when it's produced for Standard Ebooks, the footnote should be updated to refer it.</meta>
+		<meta property="se:production-notes">There is a footnote in the prologue that refers to The Black Star, the prequel to Islands of Space. The Black Star is also on Gutenberg; if and when it's produced for Standard Ebooks, the footnote should be updated to refer it.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Islands_of_Space</meta>
