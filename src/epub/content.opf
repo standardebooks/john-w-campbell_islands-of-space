@@ -39,6 +39,7 @@
 		<dc:description id="description">Arcot, Wade, and Morey continue their fantastic adventures in the sequel to The Black Star Passes.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Though better known as the editor for authors such as Isaac Asimov and Robert Heinlein, John W. Campbell also wrote science fiction under both his own and various pen names. &lt;i&gt;Islands of Space&lt;/i&gt; was the second in his “Arcot, Wade, and Morey” trilogy. Originally published in the spring 1931 edition of &lt;i&gt;Amazing Stories Quarterly&lt;/i&gt;, it was later published in book form in 1957.&lt;/p&gt;
+			&lt;p&gt;After the events of &lt;i&gt;The Black Star Passes&lt;/i&gt;, Arcot, Wade, Morey, and Fuller look for new challenges. Creating a spaceship that can exceed the speed of light, the four of them set out to explore other galaxies.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/20988</dc:source>
