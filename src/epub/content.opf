@@ -36,7 +36,8 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2009125313</meta>
 		<meta property="se:subject">Science Fiction</meta>
-		<meta property="se:collection">Arcot, Morey, and Wade</meta>
+		<meta property="belongs-to-collection" id="collection-1">Arcot, Morey, and Wade</meta>
+		<meta property="collection-type" refines="collection-1">series</meta>
 		<dc:description id="description">Four men become the first humans to travel to other galaxies.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Though better known as the editor for authors such as Isaac Asimov and Robert Heinlein, John W. Campbell also wrote science fiction under both his own and various pen names. &lt;i&gt;Islands of Space&lt;/i&gt; was the second in his &lt;a href="https://standardebooks.org/collections/arcot-morey-and-wade"&gt;Arcot, Morey, and Wade&lt;/a&gt; trilogy. Originally published in the spring 1931 edition of &lt;i&gt;Amazing Stories Quarterly&lt;/i&gt;, it was later published in book form in 1957.&lt;/p&gt;
