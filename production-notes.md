@@ -1,0 +1,1 @@
+There is a footnote in the prologue that refers to The Black Star, the prequel to Islands of Space. The Black Star is also on Gutenberg; if and when it's produced for Standard Ebooks, the footnote should be updated to refer it.
